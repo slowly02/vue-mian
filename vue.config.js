@@ -8,7 +8,7 @@ const HOST = '127.0.0.1';
 const PORT = '8045';
 const DEV_URL = 'http://lvshioa_api.site888.cn/';
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production' ? './' : '/',
+    publicPath: './',
     productionSourceMap: false,
     css: {
         loaderOptions: {
