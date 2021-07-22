@@ -29,7 +29,7 @@
     "vuescroll": "^4.6.24",
     "vuex": "^3.0.1",
     "wangeditor": "^3.1.1",
-    "xlsx": "^0.16.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
